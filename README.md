@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Monjurul Hassan Apu</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-https://media.tenor.com/uJcQPQkws5sAAAAi/hello-hi.gif
+<a https://media.tenor.com/uJcQPQkws5sAAAAi/hello-hi.gif</a>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=apu2699" alt="apu2699" /></a> </p>
 
